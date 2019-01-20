@@ -1,2 +1,2 @@
 # Algorithms-And-Data-Structures
-Repo for interesting articles, algorithm problems and data structure implementation.
+Repo for interesting articles, algorithm and data structure implementation, solving problems.
