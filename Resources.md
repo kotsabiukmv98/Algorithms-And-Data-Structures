@@ -8,7 +8,7 @@
 
 1. [Алгоритмы и структуры данных. I семестр](https://www.lektorium.tv/course/22823) Russian language 
 2. [Алгоритмы и структуры данных. II семестр](https://www.lektorium.tv/course/22843) Russian language
-3. [WilliamFiset YouTube Chanel](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
+3. [WilliamFiset YouTube Chanel](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw) English language
 
 
 ## Sites for solving interview questions
